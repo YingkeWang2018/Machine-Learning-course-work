@@ -1,0 +1,10 @@
+scipy
+numpy
+pandas
+autograd
+matplotlib
+jupyter
+sklearn
+torch
+torchvision
+torchaudio
